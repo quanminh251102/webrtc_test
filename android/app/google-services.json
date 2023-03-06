@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "132150867354",
+    "project_id": "videocallexample",
+    "storage_bucket": "videocallexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132150867354:android:3840f9401abe9c5e327623",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132150867354-jv9mg7el92tq33hk7gmtlo03d6vthnlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.flutterexplained.webrtc_tutorial",
+            "certificate_hash": "83cc68dfbcd1fcbfa496d3dffe699ab70b2a5c4c"
+          }
+        },
+        {
+          "client_id": "132150867354-7alkst5upt535er0sarf52r6e0km1r4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpU8he1_4LgfG0dymOsQQ6-KSVHLFiE-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132150867354-7alkst5upt535er0sarf52r6e0km1r4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
